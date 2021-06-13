@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 hello git
-切换分支 master test
+切换分支 hot-fix
+
